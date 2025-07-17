@@ -46,9 +46,9 @@ This repo is public to:
 ## 🔗 Explore Our Ecosystem
 
 - ---
-🌐 [Main Website](https://mightbytes.com)  
+🌐 [Might Bytes Home Page](https://mightbytes.com)  
 📘 [Notion Explainer](https://dust-talon-263.notion.site/How-it-Works-How-We-Compare-22a471e0a16380308dd6edd41ffaf2cd?source=copy_link)  
-📄 [Media Kit-Site Overview](//sites.google.com/mightbytes.com/mightbytes/home) 
+📄 [Migth Bytes Overview Page](//sites.google.com/mightbytes.com/mightbytes/home)
 📰 [Medium-Insight into the Might Bytes Team](https://medium.com/@contact_70273)  
 📬 [Stackhub Members Information](https://membersguide.substack.com/?r=628whd&utm_campaign=pub-share-checklist)  
 🤖 [Might Bytes AI Help Assistant](https://chatgpt.com/g/g-6876fbb8549c8191a2111248bb9ae487-might-bytes-ai-help-assistantt)  
