@@ -56,5 +56,4 @@ This repo is public to:
 📄 Licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 💛 Give to win. Stay kind. Share Bytes.
-# might-bytes-public-docs
-Public documentation for Might Bytes: a digital gifting platform where generosity enters you into real cash drawings. Includes transparency files, entry rules, drawing process, and member-facing features.
+
