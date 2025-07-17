@@ -43,13 +43,23 @@ This repo is public to:
 
 ---
 
-## 🔗 Additional Links
+## 🔗 Explore Our Ecosystem
 
-- 🌐 [Main Site](https://mightbytes.com)  
-- 📰 [Member Stackhub](https://membersguide.substack.com/?r=628whd&utm_campaign=pub-share-checklist)  
-- 🤖 [Custom GPT Assistant](https://chatgpt.com/g/g-6876fbb8549c8191a2111248bb9ae487-might-bytes-ai-help-assistantt)  
-- 📄 [Platform Rules + Terms](https://mightbytes.com/terms)  
-- 📬 [Contact Support](mailto:support@mightbytes.com)
+- ---
+🌐 [Main Website](https://mightbytes.com)  
+📘 [Notion Explainer](https://dust-talon-263.notion.site/How-it-Works-How-We-Compare-22a471e0a16380308dd6edd41ffaf2cd?source=copy_link)  
+📄 [Media Kit-Site Overview](//sites.google.com/mightbytes.com/mightbytes/home) 
+📰 [Medium-Insight into the Might Bytes Team](https://medium.com/@contact_70273)  
+📬 [Stackhub Members Information](https://membersguide.substack.com/?r=628whd&utm_campaign=pub-share-checklist)  
+🤖 [Might Bytes AI Help Assistant](https://chatgpt.com/g/g-6876fbb8549c8191a2111248bb9ae487-might-bytes-ai-help-assistantt)  
+▶️ [Intro Video](https://www.youtube.com/watch?v=EzWX-HPfV7A)  
+📲 [Instagram](https://www.instagram.com/mightbytes)  
+🎵 [TikTok](https://www.tiktok.com/@mightbytes)  
+📺 [YouTube](https://www.youtube.com/@might_bytes)  
+📘 [Facebook](https://www.facebook.com/Mightbytes/)
+
+
+
 
 ---
 
