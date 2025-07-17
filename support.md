@@ -7,7 +7,6 @@ We’re here to make your experience smooth, safe, and rewarding. If you ever ha
 ## 📬 Contact Support
 
 **Contact Form:** [https://www.mightbytes.com/contact-us](https://www.mightbytes.com/contact-us)  
-**Email:** [support@mightbytes.com](mailto:support@mightbytes.com)
 
 Our team typically responds within 24–48 business hours.
 
@@ -33,13 +32,13 @@ For questions about:
 - How prize winners are selected  
 - Prize payment options and timelines  
 
-Please visit the [Rules + Drawing Info section on MightBytes.com](https://www.mightbytes.com)
+Please read [Might Bytes Rules +Regulationsg](https://www.mightbytes.com)
 
 ---
 
 ## ⚠️ Report a Problem
 
-If you believe your account has been compromised or your Alias is being misused, contact us immediately at [support@mightbytes.com](mailto:support@mightbytes.com) with the subject line **URGENT**.
+If you believe your account has been compromised or your Alias is being misused, contact us immediately at [contact@mightbytes.com](mailto:contact@mightbytes.com) with the subject line **URGENT**.
 
 We take platform integrity seriously and will respond as quickly as possible.
 
